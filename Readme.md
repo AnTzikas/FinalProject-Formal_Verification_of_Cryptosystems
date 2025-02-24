@@ -11,8 +11,8 @@ A simple blockchain implementation in Rust with a **peer-to-peer (P2P) network**
 ### **Clone the Repository**
 
 ```bash
-git clone https://github.com/your_username/blockchain-p2p.git
-cd blockchain-p2p
+git clone https://github.com/AnTzikas/FinalProject-Formal_Verification_of_Cryptosystems.git
+cd Formal_Verification_of_Cryptosystems
 ```
 
 
